@@ -1,14 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to My Homepage
 
-You can use the [editor on GitHub](https://github.com/BettyWuPKU/BettyWuPKU/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Yuexin Wu, a junior majoring in computer science. I am currently taking my bachelor eduaction in Peking University, Beijing, China. I'm researching in the field of transaction fee mechanism on blockchains. If you are interested in me, please contact me through email. My email address is yuexin.wu@pku.edu.cn.
 
 ### Education
 
-2019.06 ~ now Peking University
+* I have been studying computer science since June, 2019 in Peking University to pursue a bachelor's degree.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Research Experience
+
+* 
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -28,7 +32,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
 
 ### Jekyll Themes
 
