@@ -14,10 +14,10 @@
 
 ### Project Experience
 
-* Image Retrieval: devise the original mAP index loss function to the variable range, improve accuracy rate by at least 10\%\\
-* Calculator: use verilog and FPGA to write programs that can be directly compiled into the circuit board for operation of arithmetic and display of number\\
-* XV6 Operating System: implement a simple Unix operating system based on a course framework\\
-* Image Inpainting: complete an image inpainting program with UI for interaction, the algorithm includes both traditional and deep learning versions for users to choose\\
+* Image Retrieval: devise the original mAP index loss function to the variable range, improve accuracy rate by at least 10\%
+* Calculator: use verilog and FPGA to write programs that can be directly compiled into the circuit board for operation of arithmetic and display of number
+* XV6 Operating System: implement a simple Unix operating system based on a course framework
+* Image Inpainting: complete an image inpainting program with UI for interaction, the algorithm includes both traditional and deep learning versions for users to choose
 * Classification of Chinese Ancient Poems:
 
 
@@ -27,9 +27,9 @@
 
 
 ### Skills
-Programming Languages: C/C++, Java, Python, SQL\\
-Tools: Git, \LaTeX, Vim\\
-Language Proficiency: Chinese(native), English(daily communication, Toefl: 114, GRE: 331+4.0), French(reading)
+* Programming Languages: C/C++, Java, Python, SQL
+* Tools: Git, \LaTeX, Vim
+* Language Proficiency: Chinese(native), English(daily communication, Toefl: 114, GRE: 331+4.0), French(reading)
 
 
 
