@@ -27,11 +27,10 @@
 
 
 ### Skills
-\textbf{Programming Languages:}
-C/C++, Java, Python, SQL\\
-\textbf{Tools:}
-Git, \LaTeX, Vim\\
-\textbf{Language Proficiency:} Chinese(native), English(daily communication, Toefl: 114, GRE: 331+4.0), French(reading)
+Programming Languages: C/C++, Java, Python, SQL\\
+Tools: Git, \LaTeX, Vim\\
+Language Proficiency: Chinese(native), English(daily communication, Toefl: 114, GRE: 331+4.0), French(reading)
+
 
 
 
