@@ -1,14 +1,16 @@
 ## Welcome to My Homepage
 
-My name is Yuexin Wu, a junior majoring in computer science. I am currently taking my bachelor eduaction in Peking University, Beijing, China. I'm researching in the field of transaction fee mechanism on blockchains. If you are interested in me, please contact me through email. My email address is yuexin.wu@pku.edu.cn.
+  My name is Yuexin Wu, a senior majoring in computer science. I am currently persuing the bachelor's degree in Peking University, Beijing, China. I'm researching in the field of transaction fee mechanism on blockchains. If you are interested in me, please contact me through email. My email address is yuexin.wu@pku.edu.cn.
 
 ### Education
 
-* I have been studying computer science since June, 2019 in Peking University to pursue a bachelor's degree.
+* Computer Science, Bachelor's Degree (In Progress, 2019.09-now), Peking University
 
 ### Research Experience
 
-* 
+* I'm currently (2022.04-now) an intern in the Distributed and Automated Games And Managerial Economics (daGAME) Lab, which is leading by Prof.Xiaotie Deng. My research interest lies in transaction fee mechanism in blockchain. Now I'm doing research about non-myopic miners and users under the protocol called EIP-1559 especially.
+
+* My last intership (2021.05-2021.11) was in the Network and Information Security Lab in the Wang Xuan Institute, directed by Dr.Xinhui Han. My research was relevant to vulnerabilities of Android Apps.
 
 
 
