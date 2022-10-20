@@ -12,34 +12,26 @@
 
 * My last intership (2021.05-2021.11) was in the Network and Information Security Lab in the Wang Xuan Institute, directed by Dr.Xinhui Han. My research was relevant to vulnerabilities of Android Apps.
 
+### Project Experience
+
+* Image Retrieval: devise the original mAP index loss function to the variable range, improve accuracy rate by at least 10\%\\
+* Calculator: use verilog and FPGA to write programs that can be directly compiled into the circuit board for operation of arithmetic and display of number\\
+* XV6 Operating System: implement a simple Unix operating system based on a course framework\\
+* Image Inpainting: complete an image inpainting program with UI for interaction, the algorithm includes both traditional and deep learning versions for users to choose\\
+* Classification of Chinese Ancient Poems:
+
+
+### Leadership and Social Experience
+* Vice Chairman of the Students' Union, School of Electronics Engineering and Computer Science: Hold balls for freshmen, competitions on programming and contact sponsers from Internet companies
+* Volunteer(Olympic Family Assistant), Beijing 2022 Winter Olympic Games: Accompany and arrange schedules for the General Secretary of National Olympic Committee
+
+
+### Skills
+\textbf{Programming Languages:}
+C/C++, Java, Python, SQL\\
+\textbf{Tools:}
+Git, \LaTeX, Vim\\
+\textbf{Language Proficiency:} Chinese(native), English(daily communication, Toefl: 114, GRE: 331+4.0), French(reading)
 
 
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BettyWuPKU/BettyWuPKU/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
