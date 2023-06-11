@@ -22,7 +22,7 @@
 * XV6 Operating System: implement a simple Unix operating system based on a course framework
 * Image Inpainting: complete an image inpainting program with UI for interaction, the algorithm includes both traditional and deep learning versions for users to choose
 * Classification of Chinese Ancient Poems: Classified the Chinese Ancient Poems using biLSTM and Attention network structure. Reached the accuracy rate of 50% with five slots for the program to allocate the poems
-* RTP -- A Simple Reliable Transport Protocol: Developed a TCP (Transmission Control Protocol)-like, reliable transport protocol based on UDP in the presence of packet loss, delay, corruption, duplication and reordering![image](https://github.com/BettyYuexin/BettyYuexin/assets/58321805/ce3b547c-6917-4d85-83da-62fc1d48b313)
+* RTP -- A Simple Reliable Transport Protocol: Developed a TCP (Transmission Control Protocol)-like, reliable transport protocol based on UDP in the presence of packet loss, delay, corruption, duplication and reordering
 
 
 
