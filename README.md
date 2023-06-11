@@ -7,11 +7,16 @@
 * Computer Science, Bachelor's Degree (In Progress, 2019.09-now), Peking University
 * Master of Internet Networking, Master's Degree (Incoming, 2023.09-2024.12), Carnegie Mellon University
 
+### Work Experience
+
+* I'm currently (2023.04-now) an intern in PCDN (P2P Content Delivery Network), Data Video Arch, Bytedance. My work is to communicate with co-workers in other departments and obtain their latest demands. I also design and implement APIs and functions in the basic infrastructures of the PCDN independently developed by Bytedance, which involves the prediction, allocation and deployment of files on peers.
+
+
 ### Research Experience
 
-* I'm currently (2022.04-now) an intern in the Distributed and Automated Games And Managerial Economics (daGAME) Lab, which is leading by Prof.Xiaotie Deng. My research interest lies in transaction fee mechanism in blockchain. Now I'm doing research about non-myopic miners and users under the protocol called EIP-1559 especially.
+* I was an intern (2022.04-2024.02) in the Distributed and Automated Games And Managerial Economics (daGAME) Lab, which is leading by Prof.Xiaotie Deng. My research interest lies in transaction fee mechanism in blockchain. Now I'm doing research about non-myopic miners and users under the protocol called EIP-1559 especially.
 
-* My last internship (2021.05-2021.11) was in the Network and Information Security Lab in the Wang Xuan Institute, directed by Dr.Xinhui Han. My research was relevant to vulnerabilities of Android Apps.
+* I was an intern (2021.05-2021.11) in the Network and Information Security Lab in the Wang Xuan Institute, directed by Dr.Xinhui Han. My research was relevant to vulnerabilities of Android Apps.
 
 ### Project Experience
 
